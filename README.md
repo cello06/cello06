@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/custom-github-grade-ui5-abap.png" height="150" alt="Custom UI5 and ABAP badge" />
+  <img src="sapui5.png" height="150" alt="Custom UI5 and ABAP badge" />
   <p><strong>UI5 & ABAP</strong></p>
 </div>
 
